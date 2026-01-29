@@ -23,7 +23,7 @@ repository               : "Pandapie109/pandapie109.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Profile.png"
   name             : "Daniel Robles"
   pronouns         : "He/Him/His"  
   bio              : "VT Student graduating in 2027"
