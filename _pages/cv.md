@@ -16,48 +16,28 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2022 - Summer 2024 Barista and Repairman 
+  * The Bakeshop, Williamsburg, VA
+  * Duties include: preparing beverage orders promptly and maintain/repair all equipment in the shop.
+  * Supervisor: Rachael Taylor
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Winter 2025 - Summer 2025 Cook
+  * Holh Cafe, Williamsburg/Toano, VA
+  * Duties included: Collaborating with coworkers to prepare orders in quickley, developing new recipes and entrees, fill in at both locations when needed.
+  * Supervisor: Chris Stark
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Strong verbal communication skills
+* Knowledgeable in coding languages
+  * C++
+  * Python
+  * Java
+* Electrical systems troubleshooting
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
+Leadership and Achievements
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Eagle Scout - Boy Scouts of America (2022)
+* Graduated Cum Laude - VPCC (2025)
