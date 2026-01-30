@@ -1,6 +1,6 @@
 ---
 title: "RTTY system using IR LED"
-excerpt: "Transferred a message over 6 feet using an IR LED that is limited to 0.4 mA of current. <br/><img src='/images/RTTY'>"
+excerpt: "Transferred a message over 6 feet using an IR LED that is limited to 0.4 mA of current. <br/><img src='/images/RTTY.jpg'>"
 collection: portfolio
 ---
 
